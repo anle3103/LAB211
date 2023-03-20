@@ -1,0 +1,7 @@
+6;NGUYEN;HA;0123456789;Kh@gmail.com;HL;22/01/2009;Male;4.0;FPT
+2;Nguyen;Luong;0978895191;HUytung@gmai.com;Ha Noi;28/01/2001;Male;5.0;FPT
+4;Nguyen;Thang;0978895141;kdddddd@gmail.com;Bac Ninh;27/09/2002;Male;6.0;FPt
+5;Hai;Phuong;0978895141;kdddddd@gmail.com;Quang Tri;27/09/2002;Male;6.0;FPt
+9;Hoang;Hai;0978895141;kdddddd@gmail.com;Ninh Binh;27/09/2002;Male;7.0;FPt
+8;Dinh;Hung;0123456789;KKF@gmail.com;HOALAC;22/02/2001;Male;40.0;FPT
+1;Khac;Hung;0978895191;HH@gmail.com;HOALAC;30/03/2001;Male;10.0;FPT
